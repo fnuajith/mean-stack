@@ -1,0 +1,8 @@
+#dependencies
+node_modules/
+
+#nodemon env variables
+nodemon.json
+
+#package-lock
+package-lock.json
